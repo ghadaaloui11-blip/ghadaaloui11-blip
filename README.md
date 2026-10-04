@@ -1,16 +1,20 @@
-## Hi there 👋
+# Bonjour, je suis Ghada Aloui
 
-<!--
-**ghadaaloui11-blip/ghadaaloui11-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiante en 3ème année **Développement des Systèmes d'Information (DSI)** à l'ISET Charguia.
+À la recherche d'un **stage PFE en développement web** (février – juin 2027).
 
-Here are some ideas to get you started:
+## Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Front-end :** HTML, CSS, JavaScript, Angular
+- **Back-end :** PHP, Node.js, Spring Boot, Java
+- **Outils :** Git, GitHub
+
+## Projets
+
+- [angularprojet](https://github.com/ghadaaloui11-blip/angularprojet) : application web Angular (TypeScript)
+- [springMiniprojet](https://github.com/ghadaaloui11-blip/springMiniprojet) : mini-projet Spring Boot (Java)
+- [healthflow-alouiversion](https://github.com/ghadaaloui11-blip/healthflow-alouiversion) : projet web (HTML/CSS)
+
+## Contact
+
+Email : ghadaaloui11@gmail.com 
